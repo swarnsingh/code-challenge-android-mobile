@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TerminalApplication</string>
+    <string name="loading">Loading…</string>
+    <string name="error_general_title">Something went wrong</string>
+    <string name="error_general_description">Please try again.</string>
+    <string name="retry">Retry</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="deposit">Deposit</string>
+    <string name="history">History</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="error">Error: %1$s</string>
+    <string name="not_enough_balance">Not enough balance</string>
+    <string name="amount_credited_success_msg">Amount credited successfully</string>
+    <string name="amount_debited_success_msg">Amount debited successfully</string>
+    <string name="transaction_failed">Transaction Failed</string>
+    <string name="check_balance_failed">Failed to fetch balance</string>
+</resources>
