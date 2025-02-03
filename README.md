@@ -4,6 +4,10 @@ This project is a banking application where users can deposit and withdraw money
 account. It supports viewing past transactions and ensures no withdrawal occurs if the balance is
 insufficient.
 
+## Screens
+[Watch the video](https://github.com/user-attachments/assets/6eb2340f-9a3b-4b07-b178-bc31dd969ec9)
+
+
 ## Features
 
 - **Deposit and Withdraw**: Users can deposit and withdraw money from their accounts. Withdrawals
